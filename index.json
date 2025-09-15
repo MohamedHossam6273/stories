@@ -1,29 +1,5 @@
 [
   {
-    "id": "story1",
-    "title": "الرحلة الغامضة",
-    "author": "أحمد",
-    "description": "قصة قصيرة عن رحلة مليئة بالمفاجآت.",
-    "cover": "covers/story1.jpg",
-    "file": "story1.json"
-  },
-  {
-    "id": "story2",
-    "title": "المدينة المفقودة",
-    "author": "سارة",
-    "description": "مغامرة مثيرة في مدينة لم يرها أحد من قبل.",
-    "cover": "covers/story2.jpg",
-    "file": "story2.json"
-  },
-  {
-    "id": "story3",
-    "title": "صوت الريح",
-    "author": "محمد",
-    "description": "قصة شاعرية عن الريح وأسرارها.",
-    "cover": "covers/story3.jpg",
-    "file": "story3.json"
-  },
-  {
     "id": "she",
     "title": "هي",
     "author": "هنري رايدر هاجارد ",
@@ -41,6 +17,7 @@
   }
   
 ]
+
 
 
 
